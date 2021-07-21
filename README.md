@@ -8,6 +8,6 @@ I am a Bilingual (English, French), ambitious Full-Stack Web Developer with an a
 ##Find me arround the web :earth_americas::
 
 - Sharing professional updates on <a href="https://www.linkedin.com/in/francescofakhoury/">LinkedIn</a> :sunglasses:
-- A personal portfolio page at <a href="francescofakhoury.com">francescofakhoury.com</a> :computer:
+- A personal portfolio page at <a href="https://francescofakhoury.com">francescofakhoury.com</a> :computer:
 - Tinkering with new projects and ideas on <a href="https://github.com/FrancescoFakhoury/">Github</a> 🐱:
 - sharing my life's story on <a href="https://www.instagram.com/francesco.fakhoury/">Instagram</a> 😈
