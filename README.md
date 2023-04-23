@@ -5,7 +5,7 @@
 ---
 I am a Bilingual (English, French), ambitious Full-Stack Web Developer with an absolute passion for coding. Some technologies I enjoy working with include ReactJS, Javascript and Node.js with RESTful APIs. I am also currently learning Typescript and would also like to learn Web3.js in order to create DeFi applications someday. 
 
-##Find me arround the web :earth_americas::
+Find me arround the web :earth_americas::
 
 - Sharing professional updates on <a href="https://www.linkedin.com/in/francescofakhoury/">LinkedIn</a> :sunglasses:
 - A personal portfolio page at <a href="https://francescofakhoury.com">francescofakhoury.com</a> :computer:
